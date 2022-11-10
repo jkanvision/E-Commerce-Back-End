@@ -61,9 +61,16 @@
   3. Your back-end server is now ready for use! Run the following command to spin it up:
 
   >          npm start
+  <br>
   &nbsp;
   &nbsp;
 
+  &nbsp;
+  &nbsp;
+  Video Walkthrough:
+
+  [![Video walkthrough demonstrating the functionality of the application](images/walkthrough-scrnshot.png)](https://drive.google.com/file/d/1rN_Wgi-CyruV6yYZAOyjUCAe0oRhMqDj/view)
+  
   &nbsp;
   &nbsp;
   ## License:
