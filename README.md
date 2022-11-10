@@ -39,9 +39,10 @@
 
   5. Enter your MySQL password when prompted. Then run the following commands, one at a time, to create your database:
   <br>
+
   >          DROP DATABASE IF EXISTS ecommerce_db;
 
- <br>   
+   
 
   >          CREATE DATABASE ecommerce_db;
 
